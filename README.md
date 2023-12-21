@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Ken. Is a backend developer with nearly two years of experience. <br>I mainly update my content on my blog (https://kenhuangtw.github.io/), feel free to check it out!
+Hi, I'm Ken. Is a backend developer with nearly two years of experience. <br>I mainly update my content on [my blog](https://kenhuangtw.github.io/), feel free to check it out!
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KenHuangTW&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
